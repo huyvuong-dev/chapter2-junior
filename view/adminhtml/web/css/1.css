@@ -1,0 +1,7 @@
+.admin__menu .level-0.item-clockconfiguration > a:before {
+    content: url('../images/rsz_clock.svg');
+    height: 24px;
+    width: 24px;
+    margin-left: 18px;
+    margin-bottom: 23px;
+}
